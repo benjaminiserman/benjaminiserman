@@ -8,4 +8,9 @@ If you want reach me, my email is winggar1228@gmail.com, and my pronouns are he/
 
 Check out my replit for my rough unfinished work: https://replit.com/@winggar
 
-Fun fact: Mi povas paroli iomete Esperanton!
+Looking for Cuboid?
+Unfortunately, Cuboid is a closed-source commercial product.
+If you'd like to see a demonstration, you're welcome to contact me at winggar1228@gmail.com
+
+In the meantime, here are some pictures!
+![test](blob:https://imgur.com/556ed162-0637-4ed3-a1a0-931839f38ffe)
