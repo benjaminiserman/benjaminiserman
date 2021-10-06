@@ -13,4 +13,6 @@ Unfortunately, Cuboid is a closed-source commercial product.
 If you'd like to see a demonstration, you're welcome to contact me at winggar1228@gmail.com
 
 In the meantime, here are some pictures!
-![test](https://i.imgur.com/K4R3HxH.png)
+![a boulder in a quiet forest](https://i.imgur.com/K4R3HxH.png)
+![a selection of herbs](https://i.imgur.com/TkIooCg.png)
+![a crimson-red tree](https://i.imgur.com/30ptWo7.png)
