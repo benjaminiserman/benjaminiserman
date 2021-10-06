@@ -8,7 +8,7 @@ If you want reach me, my email is winggar1228@gmail.com, and my pronouns are he/
 
 Check out my replit for my rough unfinished work: https://replit.com/@winggar
 
-Looking for Cuboid?
+Looking for **Cuboid**?
 Unfortunately, Cuboid is a closed-source commercial product.
 If you'd like to see a demonstration, you're welcome to contact me at winggar1228@gmail.com
 
