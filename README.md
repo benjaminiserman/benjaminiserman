@@ -3,6 +3,7 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:winggar1228@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benjamin-iserman-5954a2222/)
+[![Repl.it](https://img.shields.io/badge/Repl.it-%230D101E.svg?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@winggar)
 
 Hello!
 
@@ -12,10 +13,6 @@ Right now, I'm working on my Bachelor's degree in Computer Science at Dakota Sta
 
 I started programming when I was 7 years old after my mom dragged me to a summer camp.
 Aaaand now it's like my favorite thing, go figure.
-
-If you want to reach me, my email is winggar1228@gmail.com; pronouns are he/him.
-
-Check out my replit for my rough unfinished work: https://replit.com/@winggar
 
 Looking for **Cuboid**?
 Unfortunately, Cuboid is a closed-source commercial product.
