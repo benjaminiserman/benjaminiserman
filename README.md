@@ -1,3 +1,6 @@
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=winggar)
+![Stats](https://github-readme-stats.vercel.app/api?username=winggar)
+
 Hello!
 
 I'm Ben, and I'm mostly just working on my super secret project Cuboid.
