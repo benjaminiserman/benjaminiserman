@@ -9,10 +9,8 @@ Hello!
 
 I'm Ben, and I'm mostly just working on my super secret project Cuboid.
 I'm a huge fan of C# and am always happy to answer questions relating to it!
-Right now, I'm working on my Bachelor's and Master's degrees in Computer Science at Dakota State University.
-Last summer I worked as a Software Dev Engineer intern at Amazon and received a return offer.
-
-I started programming when I was 7 years old after my mom dragged me to a summer camp.
+I graduated with a Bachelor's degree in Computer Science from Dakota State University when I was 19 years old.
+While at school, I interned at Amazon and Roblox. My programming journey started when I was 7 years old after my mom dragged me to a summer camp.
 Aaaand now it's like my favorite thing, go figure.
 
 Looking for **Cuboid**?
