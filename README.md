@@ -13,6 +13,8 @@ I graduated with a Bachelor's degree in Computer Science from Dakota State Unive
 While at school, I interned at Amazon and Roblox. My programming journey started when I was 7 years old after my mom dragged me to a summer camp.
 Aaaand now it's like my favorite thing, go figure.
 
+On this site I have a variety of personal projects, as well as the source for all of my mods. Everything is open-source, mostly under MIT license so feel free to take what you need.
+
 Looking for **Cuboid**?
 Unfortunately, Cuboid is a closed-source commercial product.
 If you'd like to see a demonstration, you're welcome to contact me at benjaminiserman@gmail.com
